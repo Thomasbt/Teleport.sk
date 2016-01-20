@@ -1,0 +1,634 @@
+options:
+    slot 0: slot 0 of player with green wool named "&aMine A" with lore "&aMine A" to close then run "a %player%"
+    slot 1: slot 1 of player with green wool named "&aMine B" with lore "&aMine B" to close then run "b %player%"
+    slot 2: slot 2 of player with green wool named "&aMine C" with lore "&aMine C" to close then run "c %player%"
+    slot 3: slot 3 of player with green wool named "&aMine D" with lore "&aMine D" to close then run "d %player%"
+    slot 4: slot 4 of player with green wool named "&aMine E" with lore "&aMine E" to close then run "e %player%"
+    slot 5: slot 5 of player with green wool named "&aMine F" with lore "&aMine F" to close then run "f %player%"
+    slot 6: slot 6 of player with green wool named "&aMine G" with lore "&aMine G" to close then run "g %player%"
+    slot 7: slot 7 of player with green wool named "&aMine H" with lore "&aMine H" to close then run "h %player%"
+    slot 8: slot 8 of player with green wool named "&aMine I" with lore "&aMine I" to close then run "i %player%"
+    slot 9: slot 9 of player with green wool named "&aMine J" with lore "&aMine J" to close then run "j %player%"
+    slot 10: slot 10 of player with green wool named "&aMine K" with lore "&aMine K" to close then run "k %player%"
+    slot 11: slot 11 of player with green wool named "&aMine L" with lore "&aMine L" to close then run "l %player%"
+    slot 12: slot 12 of player with green wool named "&aMine M" with lore "&aMine M" to close then run "m %player%"
+    slot 13: slot 13 of player with green wool named "&aMine N" with lore "&aMine N" to close then run "n %player%"
+    slot 14: slot 14 of player with green wool named "&aMine O" with lore "&aMine O" to close then run "o %player%"
+    slot 15: slot 15 of player with green wool named "&aMine P" with lore "&aMine P" to close then run "p %player%"
+    slot 16: slot 16 of player with green wool named "&aMine Q" with lore "&aMine Q" to close then run "q %player%"
+    slot 17: slot 17 of player with green wool named "&aMine R" with lore "&aMine R" to close then run "r %player%"
+    slot 18: slot 18 of player with green wool named "&aMine S" with lore "&aMine S" to close then run "s %player%"
+    slot 19: slot 19 of player with green wool named "&aMine T" with lore "&aMine T" to close then run "t %player%"
+    slot 20: slot 20 of player with green wool named "&aMine V" with lore "&aMine V" to close then run "v %player%"
+    slot 21: slot 21 of player with green wool named "&aMine W" with lore "&aMine W" to close then run "w %player%"
+    slot 22: slot 22 of player with green wool named "&aMine X" with lore "&aMine X" to close then run "x %player%"
+    slot 23: slot 23 of player with green wool named "&aMine Y" with lore "&aMine Y" to close then run "y %player%"
+    slot 24: slot 24 of player with green wool named "&aMine Z" with lore "&aMine Z" to close then run "z %player%"
+    slot 25: slot 25 of player with green wool named "&aMine 1" with lore "&aMine 1" to close then run "1 %player%"
+    slot 26: slot 26 of player with green wool named "&aMine 2" with lore "&aMine 2" to close then run "2 %player%"
+    slot 27: slot 27 of player with green wool named "&aMine 3" with lore "&aMine 3" to close then run "3 %player%"
+    slot 28: slot 28 of player with green wool named "&aMine 4" with lore "&aMine 4" to close then run "4 %player%"
+    slot 29: slot 29 of player with green wool named "&aMine 5" with lore "&aMine 5" to close then run "5 %player%"
+    slot 30: slot 30 of player with green wool named "&aMine 6" with lore "&aMine 6" to close then run "6 %player%"
+    slot 31: slot 31 of player with green wool named "&aMine 7" with lore "&aMine 7" to close then run "7 %player%"
+    slot 32: slot 32 of player with green wool named "&aMine 8" with lore "&aMine 8" to close then run "8 %player%"
+    slot 33: slot 33 of player with green wool named "&aMine 9" with lore "&aMine 9" to close then run "9 %player%"
+    slot 34: slot 34 of player with green wool named "&aMine 10" with lore "&aMine 10" to close then run "10 %player%"
+    slot 35: slot 35 of player with green wool named "&bBONDE &aMINEN" with lore "&bBONDE &aMINEN" to close then run "bonde %player%"
+    slot 36: slot 36 of player with green wool named "&6PRINSE &aMINEN" with lore "&6PRINSE &aMINEN" to close then run "prins %player%"
+    slot 37: slot 37 of player with green wool named "&3KONGE &aMINEN" with lore "&3KONGE &aMINEN" to close then run "konge %player%"
+    slot 38: slot 49 of player with green wool named "&aPARTY MINE &b&kk" with lore "&aPARTY MINE &b&kk" to close then run "party %player%"
+    slot 39: slot 50 of player with green wool named "&aDonator MINE" with lore "&aDonator MINE" to close then run "donator %player%"
+    slot 40: slot 51 of player with green wool named "&aVip MINE" with lore "&aMine C" to close then run "vip %player%"
+    slot 41: slot 52 of player with green wool named "&aPalatinium MINE" with lore "&aPalatinium MINE" to close then run "platatinium %player%"
+    slot 42: slot 53 of player with green wool named "&aDIAMIND MINE" with lore "&aDIAMIND MINE" to close then run "diamond %player%"
+    slot 43: slot 0 of player with green wool named "&Mine A" with lore "&cMine A" to close then run "adgang %player%"
+    slot 44: slot 1 of player with green wool named "&cMine B" with lore "&cMine B" to close then run "adgang %player%"
+    slot 45: slot 2 of player with green wool named "&cMine C" with lore "&cMine C" to close then run "adgang %player%"
+    slot 46: slot 3 of player with green wool named "&cMine D" with lore "&cMine D" to close then run "adgang %player%"
+    slot 47: slot 4 of player with green wool named "&cMine E" with lore "&cMine E" to close then run "adgang %player%"
+    slot 48: slot 5 of player with green wool named "&cMine F" with lore "&cMine F" to close then run "adgang %player%"
+    slot 49: slot 6 of player with green wool named "&cMine G" with lore "&cMine G" to close then run "adgang %player%"
+    slot 50: slot 7 of player with green wool named "&cMine H" with lore "&cMine H" to close then run "adgang %player%"
+    slot 51: slot 8 of player with green wool named "&cMine I" with lore "&cMine I" to close then run "adgang %player%"
+    slot 52: slot 9 of player with green wool named "&cMine J" with lore "&cMine J" to close then run "adgang %player%"
+    slot 53: slot 10 of player with green wool named "&cMine K" with lore "&cMine K" to close then run "adgang %player%"
+    slot 54: slot 11 of player with green wool named "&cMine L" with lore "&cMine L" to close then run "adgang %player%"
+    slot 55: slot 12 of player with green wool named "&cMine M" with lore "&cMine M" to close then run "adgang %player%"
+    slot 56: slot 13 of player with green wool named "&cMine N" with lore "&cMine N" to close then run "adgang %player%"
+    slot 57: slot 14 of player with green wool named "&cMine O" with lore "&cMine O" to close then run "adgang %player%"
+    slot 58: slot 15 of player with green wool named "&cMine P" with lore "&cMine P" to close then run "adgang %player%"
+    slot 59: slot 16 of player with green wool named "&cMine Q" with lore "&cMine Q" to close then run "adgang %player%"
+    slot 60: slot 17 of player with green wool named "&cMine R" with lore "&cMine R" to close then run "adgang %player%"
+    slot 61: slot 18 of player with green wool named "&cMine S" with lore "&cMine S" to close then run "adgang %player%"
+    slot 62: slot 19 of player with green wool named "&cMine T" with lore "&cMine T" to close then run "adgang %player%"
+    slot 63: slot 20 of player with green wool named "&cMine V" with lore "&cMine V" to close then run "adgang %player%"
+    slot 64: slot 21 of player with green wool named "&cMine W" with lore "&cMine W" to close then run "adgang %player%"
+    slot 65: slot 22 of player with green wool named "&cMine X" with lore "&cMine X" to close then run "adgang %player%"
+    slot 66: slot 23 of player with green wool named "&cMine Y" with lore "&cMine Y" to close then run "adgang %player%"
+    slot 67: slot 24 of player with green wool named "&cMine Z" with lore "&cMine Z" to close then run "adgang %player%"
+    slot 68: slot 25 of player with green wool named "&cMine 1" with lore "&cMine 1" to close then run "adgang %player%"
+    slot 69: slot 26 of player with green wool named "&cMine 2" with lore "&cMine 2" to close then run "adgang %player%"
+    slot 70: slot 27 of player with green wool named "&cMine 3" with lore "&cMine 3" to close then run "adgang %player%"
+    slot 71: slot 28 of player with green wool named "&cMine 4" with lore "&cMine 4" to close then run "adgang %player%"
+    slot 72: slot 29 of player with green wool named "&cMine 5" with lore "&cMine 5" to close then run "adgang %player%"
+    slot 73: slot 30 of player with green wool named "&cMine 6" with lore "&cMine 6" to close then run "adgang %player%"
+    slot 74: slot 31 of player with green wool named "&cMine 7" with lore "&cMine 7" to close then run "adgang %player%"
+    slot 75: slot 32 of player with green wool named "&cMine 8" with lore "&cMine 8" to close then run "adgang %player%"
+    slot 76: slot 33 of player with green wool named "&cMine 9" with lore "&cMine 9" to close then run "adgang %player%"
+    slot 77: slot 34 of player with green wool named "&cMine 10" with lore "&cMine 10" to close then run "adgang %player%"
+    slot 78: slot 35 of player with green wool named "&cBONDE &cMINEN" with lore "&cBONDE &cMINEN" to close then run "adgang %player%"
+    slot 79: slot 36 of player with green wool named "&cPRINSE &aMINEN" with lore "&cPRINSE &cMINEN" to close then run "adgang %player%"
+    slot 80: slot 37 of player with green wool named "&cKONGE &cMINEN" with lore "&cKONGE &cMINEN" to close then run "adgang %player%"
+    slot 81: slot 49 of player with green wool named "&aPARTY MINE &b&kk" with lore "&aPARTY MINE &b&kk" to close then run "py %player%"
+    slot 82: slot 50 of player with green wool named "&cDonator MINE" with lore "&cDonator MINE" to close then run "adgang %player%"
+    slot 83: slot 51 of player with green wool named "&cVip MINE" with lore "&cVip MINEN" to close then run "adgang %player%"
+    slot 84: slot 52 of player with green wool named "&cPalatinium MINE" with lore "&cPalatinium MINE" to close then run "adgang %player%"
+    slot 85: slot 53 of player with green wool named "&cDIAMIND MINE" with lore "&cDIAMIND MINE" to close then run "adgang %player%"
+command /:
+    trigger:
+        open chest with 6 row named "<gold>" to player
+        wait 2 tick
+        if player has permission "warp.a":
+            format {@slot 0}
+        if player has permission "warp.b":
+            format {@slot 1}
+        if player has permission "warp.c":
+            format {@slot 2}
+        if player has permission "warp.d":
+            format {@slot 3}
+        if player has permission "warp.e":
+            format {@slot 4}
+        if player has permission "warp.f":
+            format {@slot 5}
+        if player has permission "warp.g":
+            format {@slot 6}
+        if player has permission "warp.h":
+            format {@slot 7}
+        if player has permission "warp.i":
+            format {@slot 8}
+        if player has permission "warp.j":
+            format {@slot 9}
+        if player has permission "warp.k":
+            format {@slot 10}
+        if player has permission "warp.l":
+            format {@slot 11}
+        if player has permission "warp.m":
+            format {@slot 12}
+        if player has permission "warp.n":
+            format {@slot 13}
+        if player has permission "warp.o":
+            format {@slot 14}
+        if player has permission "warp.p":
+            format {@slot 15}
+        if player has permission "warp.q":
+            format {@slot 16}
+        if player has permission "warp.r":
+            format {@slot 17}
+        if player has permission "warp.s":
+            format {@slot 18}
+        if player has permission "warp.t":
+            format {@slot 19}
+        if player has permission "warp.v":
+            format {@slot 20}
+        if player has permission "warp.w":
+            format {@slot 21}
+        if player has permission "warp.x":
+            format {@slot 22}
+        if player has permission "warp.y":
+            format {@slot 23}
+        if player has permission "warp.z":
+            format {@slot 24}
+        if player has permission "warp.1":
+            format {@slot 25}
+        if player has permission "warp.2":
+            format {@slot 26}
+        if player has permission "warp.3":
+            format {@slot 27}
+        if player has permission "warp.4":
+            format {@slot 28}
+        if player has permission "warp.5":
+            format {@slot 29}
+        if player has permission "warp.6":
+            format {@slot 30}
+        if player has permission "warp.7":
+            format {@slot 31}
+        if player has permission "warp.8":
+            format {@slot 32}
+        if player has permission "warp.9":
+            format {@slot 33}
+        if player has permission "warp.10":
+            format {@slot 34}
+        if player has permission "warp.bonde":
+            format {@slot 35}
+        if player has permission "warp.prins":
+            format {@slot 36}
+        if player has permission "warp.konge":
+            format {@slot 37}
+        if player has permission "warp.c":
+            format {@slot 38}
+        if player has permission "warp.don":
+            format {@slot 39}
+        if player has permission "warp.vip":
+            format {@slot 40}
+        if player has permission "warp.plat":
+            format {@slot 41}
+        if player has permission "warp.dia":
+            format {@slot 42}
+        if player has permission "warp.aa":
+            format {@slot 43}
+        if player has permission "warp.ba":
+            format {@slot 44}
+        if player has permission "warp.ca":
+            format {@slot 45}
+        if player has permission "warp.da":
+            format {@slot 46}
+        if player has permission "warp.ea":
+            format {@slot 47}
+        if player has permission "warp.fa":
+            format {@slot 48}
+        if player has permission "warp.ga":
+            format {@slot 49}
+        if player has permission "warp.ha":
+            format {@slot 50}
+        if player has permission "warp.ia":
+            format {@slot 51}
+        if player has permission "warp.ja":
+            format {@slot 52}
+        if player has permission "warp.ka":
+            format {@slot 53}
+        if player has permission "warp.la":
+            format {@slot 54}
+        if player has permission "warp.ma":
+            format {@slot 55}
+        if player has permission "warp.na":
+            format {@slot 56}
+        if player has permission "warp.oa":
+            format {@slot 57}
+        if player has permission "warp.pa":
+            format {@slot 58}
+        if player has permission "warp.qa":
+            format {@slot 59}
+        if player has permission "warp.ra":
+            format {@slot 60}
+        if player has permission "warp.sa":
+            format {@slot 61}
+        if player has permission "warp.ta":
+            format {@slot 62}
+        if player has permission "warp.va":
+            format {@slot 63}
+        if player has permission "warp.wa":
+            format {@slot 64}
+        if player has permission "warp.xa":
+            format {@slot 65}
+        if player has permission "warp.ya":
+            format {@slot 66}
+        if player has permission "warp.za":
+            format {@slot 67}
+        if player has permission "warp.1a":
+            format {@slot 68}
+        if player has permission "warp.2a":
+            format {@slot 69}
+        if player has permission "warp.3a":
+            format {@slot 70}
+        if player has permission "warp.4a":
+            format {@slot 71}
+        if player has permission "warp.5a":
+            format {@slot 72}
+        if player has permission "warp.6a":
+            format {@slot 73}
+        if player has permission "warp.7a":
+            format {@slot 74}
+        if player has permission "warp.8a":
+            format {@slot 75}
+        if player has permission "warp.9a":
+            format {@slot 76}
+        if player has permission "warp.10a":
+            format {@slot 77}
+        if player has permission "warp.bondea":
+            format {@slot 78}
+        if player has permission "warp.prinsa":
+            format {@slot 78}
+        if player has permission "warp.kongea":
+            format {@slot 79}
+        if player has permission "warp.adsasdasdasda":
+            format {@slot 80}
+        if player has permission "warp.dona":
+            format {@slot 81}
+        if player has permission "warp.vipa":
+            format {@slot 82}
+        if player has permission "warp.plata":
+            format {@slot 83}
+        if player has permission "warp.diaa":
+            format {@slot 84}
+       
+command /seta:
+    trigger:
+        set {warp.a} to location of player
+        message " a satwarp."
+command /a <player>:
+    trigger:
+        teleport arg 1 to {warp.a}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved A MINEN" to arg 1
+command /setb:
+    trigger:
+        set {warp.b} to location of player
+        message " b satwarp."
+command /b <player>:
+    trigger:
+        teleport arg 1 to {warp.b}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved B MINEN" to arg 1
+command /setc:
+    trigger:
+        set {warp.c} to location of player
+        message " c satwarp."
+command /c <player>:
+    trigger:
+        teleport arg 1 to {warp.c}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved C MINEN" to arg 1
+command /setd:
+    trigger:
+        set {warp.d} to location of player
+        message " d satwarp."
+command /d <player>:
+    trigger:
+        teleport arg 1 to {warp.d}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved D MINEN" to arg 1
+command /sete:
+    trigger:
+        set {warp.e} to location of player
+        message " e satwarp."
+command /e <player>:
+    trigger:
+        teleport player to {warp.e}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved E MINEN" to arg 1
+command /setf:
+    trigger:
+        set {warp.f} to location of player
+        message " f satwarp."
+command /f <player>:
+    trigger:
+        teleport arg 1 to {warp.f}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved f MINEN" to arg 1
+command /setg:
+    trigger:
+        set {warp.g} to location of player
+        message " g satwarp."
+command /g <player>:
+    trigger:
+        teleport arg 1 to {warp.g}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved G MINEN" to arg 1
+command /seth:
+    trigger:
+        set {warp.h} to location of player
+        message " h satwarp."
+command /h <player>:
+    trigger:
+        teleport arg 1 to {warp.h}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved H MINEN" to arg 1
+command /seti:
+    trigger:
+        set {warp.i} to location of player
+        message " i satwarp."
+command /i <player>:
+    trigger:
+        teleport arg 1 to {warp.i}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved I MINEN" to arg 1
+command /setj:
+    trigger:
+        set {warp.j} to location of player
+        message " j satwarp."
+command /j <player>:
+    trigger:
+        teleport arg 1 to {warp.j}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved J MINEN" to arg 1
+command /setk:
+    trigger:
+        set {warp.k} to location of player
+        message " k satwarp."
+command /k <player>:
+    trigger:
+        teleport player to {warp.k}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved K MINEN" to arg 1
+command /setl:
+    trigger:
+        set {warp.l} to location of player
+        message " l satwarp."
+command /l <player>:
+    trigger:
+        teleport arg 1 to {warp.l}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved L MINEN" to arg 1
+command /setm:
+    trigger:
+        set {warp.m} to location of player
+        message " m satwarp."
+command /m <player>:
+    trigger:
+        teleport arg 1 to {warp.m}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved M MINEN" to arg 1
+command /setn:
+    trigger:
+        set {warp.n} to location of player
+        message " n satwarp."
+command /n <player>:
+    trigger:
+        teleport arg 1 to {warp.n}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved N MINEN" to arg 1
+command /seto:
+    trigger:
+        set {warp.o} to location of player
+        message " o satwarp."
+command /o <player>:
+    trigger:
+        teleport arg 1 to {warp.o}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved O MINEN" to arg 1
+command /setp:
+    trigger:
+        set {warp.p} to location of player
+        message " p satwarp."
+command /p <player>:
+    trigger:
+        teleport arg 1 to {warp.p}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved P MINEN" to arg 1
+command /setq:
+    trigger:
+        set {warp.q} to location of player
+        message " q satwarp."
+command /q <player>:
+    trigger:
+        teleport player to {warp.q}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved Q MINEN" to arg 1
+command /setr:
+    trigger:
+        set {warp.r} to location of player
+        message " r satwarp."
+command /r <player>:
+    trigger:
+        teleport arg 1 to {warp.r}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved R MINEN" to arg 1
+command /sets:
+    trigger:
+        set {warp.s} to location of player
+        message " s satwarp."
+command /s <player>:
+    trigger:
+        teleport arg 1 to {warp.s}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved S MINEN" to arg 1
+command /sett:
+    trigger:
+        set {warp.t} to location of player
+        message " t satwarp."
+command /t <player>:
+    trigger:
+        teleport arg 1 to {warp.t}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved T MINEN" to arg 1
+command /setv:
+    trigger:
+        set {warp.v} to location of player
+        message " v satwarp."
+command /v <player>:
+    trigger:
+        teleport arg 1 to {warp.v}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved V MINEN" to arg 1
+command /setw:
+    trigger:
+        set {warp.w} to location of player
+        message " w satwarp."
+command /w <player>:
+    trigger:
+        teleport arg 1 to {warp.w}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved W MINEN" to arg 1
+command /setx:
+    trigger:
+        set {warp.x} to location of player
+        message " x satwarp."
+command /x <player>:
+    trigger:
+        teleport arg 1 to {warp.x}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved X MINEN" to arg 1
+command /sety:
+    trigger:
+        set {warp.y} to location of player
+        message " y satwarp."
+command /y <player>:
+    trigger:
+        teleport arg 1 to {warp.y}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved Y MINEN" to arg 1
+command /setz:
+    trigger:
+        set {warp.z} to location of player
+        message " z satwarp."
+command /z <player>:
+    trigger:
+        teleport arg 1 to {warp.z}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved Z MINEN" to arg 1
+command /set1:
+    trigger:
+        set {warp.1} to location of player
+        message " 1 satwarp."
+command /1 <player>:
+    trigger:
+        teleport arg 1 to {warp.1}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 1" to arg 1
+command /set2:
+    trigger:
+        set {warp.2} to location of player
+        message " 2 satwarp."
+command /2 <player>:
+    trigger:
+        teleport arg 1 to {warp.2}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 2" to arg 1
+command /set3:
+    trigger:
+        set {warp.3} to location of player
+        message " 3 satwarp."
+command /3 <player>:
+    trigger:
+        teleport arg 1 to {warp.3}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 3" to arg 1
+command /set4:
+    trigger:
+        set {warp.4} to location of player
+        message " 4 satwarp."
+command /4 <player>:
+    trigger:
+        teleport arg 1 to {warp.4}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 4" to arg 1
+command /set5:
+    trigger:
+        set {warp.5} to location of player
+        message " 5 satwarp."
+command /5 <player>:
+    trigger:
+        teleport arg 1 to {warp.y}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 5" to arg 1
+command /set6:
+    trigger:
+        set {warp.6} to location of player
+        message " 6 satwarp."
+command /6 <player>:
+    trigger:
+        teleport arg 1 to {warp.6}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 6" to arg 1
+command /set7:
+    trigger:
+        set {warp.7} to location of player
+        message " 7 satwarp."
+command /7 <player>:
+    trigger:
+        teleport arg 1 to {warp.7}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 7" to arg 1
+command /set8:
+    trigger:
+        set {warp.8} to location of player
+        message " 8 satwarp."
+command /8 <player>:
+    trigger:
+        teleport arg 1 to {warp.8}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 8" to arg 1
+command /set9:
+    trigger:
+        set {warp.9} to location of player
+        message " 9 satwarp."
+command /9 <player>:
+    trigger:
+        teleport arg 1 to {warp.9}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 9" to arg 1
+command /set10:
+    trigger:
+        set {warp.10} to location of player
+        message " 10 satwarp."
+command /10 <player>:
+    trigger:
+        teleport arg 1 to {warp.10}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved MINE 10" to arg 1
+command /setparty:
+    trigger:
+        set {warp.py} to location of player
+        message " py satwarp."
+command /party <player>:
+    trigger:
+        teleport arg 1 to {warp.py}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved PARTY MINEN" to arg 1
+command /setbonde:
+    trigger:
+        set {warp.bon} to location of player
+        message " bon satwarp."
+command /bonde <player>:
+    trigger:
+        teleport arg 1 to {warp.bon}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved BONDE MINEN" to arg 1
+command /setprins:
+    trigger:
+        set {warp.pri} to location of player
+        message " pri satwarp."
+command /prins <player>:
+    trigger:
+        teleport arg 1 to {warp.pri}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved PRINSE MINEN" to arg 1
+command /setkonge:
+    trigger:
+        set {warp.kog} to location of player
+        message " kog satwarp."
+command /konge <player>:
+    trigger:
+        teleport arg 1 to {warp.kog}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved KONGE MINEN" to arg 1
+command /setdonator:
+    trigger:
+        set {warp.don} to location of player
+        message " don satwarp."
+command /donator <player>:
+    trigger:
+        teleport arg 1 to {warp.don}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved DONATOR MINEN" to arg 1
+command /setvip:
+    trigger:
+        set {warp.vip} to location of player
+        message " vip satwarp."
+command /vip <player>:
+    trigger:
+        teleport arg 1 to {warp.vip}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved VIP MINEN" to arg 1
+command /setPALATINIUM:
+    trigger:
+        set {warp.plat} to location of player
+        message " plat satwarp."
+command /PALATINIUM <player>:
+    trigger:
+        teleport arg 1 to {warp.plat}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved PALATINIUM MINEN" to arg 1
+command /setDIAMOND:
+    trigger:
+        set {warp.dia} to location of player
+        message " dia satwarp."
+command /DIAMOND <player>:
+    trigger:
+        teleport arg 1 to {warp.dia}
+        message "&7[&cTeleport&7]&3>> &a Du er nu ved DIAMOND MINEN" to arg 1
+
+command /adgang <player>:
+    trigger:
+        message "&7[&cTeleport&7]&3>> &cdu har ikke adgang til denne mine" to arg 1
+command /setspawn:
+        trigger:
+                set {spawn} to location of player
+
+command /spawn:
+        trigger:
+                if {spawn} is not set:
+                        message "&7[&cTeleport&7]&3>>&cDette spawn er ikke sat!" to player
+                        stop trigger
+                teleport player to {spawn}
+                message "&7[&cTeleport&7]&3>>&aDu er nu i spawn" to player
+command /setpspawn:
+        trigger:
+                set {pspawn} to location of player
+
+command /pspawn:
+        trigger:
+                if {pspawn} is not set:
+                        message "<red>You need to set a home first!" to player
+                        stop trigger
+                teleport player to {pspawn}
+                message "&7[&cTeleport&7]&3>> &aDu er nu i Plotworld spawn" to player
